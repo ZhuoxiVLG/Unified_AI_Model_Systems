@@ -1,8 +1,8 @@
+![logo](logo.png)
+
 # Unified AI Model Systems for Perception, Decision, and Deployment
 
 This repository serves as the overarching hub for four cutting-edge AI platforms that integrate advancements in trustworthy perception-decision models, efficient model compression, brain-inspired neural networks, and autonomous driving algorithm deployment.
-
-![logo](logo.png)
 
 ## 🌐 Overview
 
